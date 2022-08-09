@@ -1,0 +1,4 @@
+github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20220804214150-8b0cc382067f h1:X02zleesrf1JEbRsNR+hmuCEijGXhcJboylwQ+6IeTw=
+github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20220804214150-8b0cc382067f/go.mod h1:F7bn7fEU90QkQ3tnmaTx3LTKLEDqnwWODIYppRQ5hnY=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
